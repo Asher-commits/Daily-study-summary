@@ -20,5 +20,5 @@
 
 ### JavaScript creates / updates variables about the student.
 ### Builds a multi-line summary with a template literal.
-### Shows the text inside the <pre> on the page.
+### Shows the text inside the "<pre>" on the page.
 ### Logs the typeof for the key variables in the console.
